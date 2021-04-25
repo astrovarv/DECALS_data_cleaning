@@ -3,7 +3,7 @@
 """
 Created on Fri Feb  5 15:12:19 2021
 
-@author: apple
+@author: Varvara Semenova
 """
 
 import astropy.io.fits as fits
